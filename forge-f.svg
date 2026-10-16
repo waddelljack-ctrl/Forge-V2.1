@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0a0a0a"/>
+  <!-- Slanted geometric F using paths -->
+  <path fill="#ff6b00" d="
+    M140 80
+    L360 80
+    L400 140
+    L220 140
+    L220 210
+    L340 210
+    L370 260
+    L220 260
+    L220 400
+    L140 440
+    Z"/>
+</svg>

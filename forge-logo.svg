@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#0a0a0a"/>
+  <!-- Anvil -->
+  <path d="M156 280 L356 280 L340 310 L172 310 Z" fill="#3a3a3a"/>
+  <path d="M180 250 L332 250 L356 280 L156 280 Z" fill="#4a4a4a"/>
+  <path d="M200 310 L220 360 L292 360 L312 310 Z" fill="#2e2e2e"/>
+  <path d="M236 360 L276 360 L276 380 L236 380 Z" fill="#2a2a2a"/>
+  <!-- Flame -->
+  <path d="M256 140 C256 140 220 200 236 230 C248 252 256 248 256 248 C256 248 264 252 276 230 C292 200 256 140 256 140 Z" fill="#ff6b00"/>
+  <path d="M256 175 C256 175 240 210 248 228 C252 238 256 236 256 236 C256 236 260 238 264 228 C272 210 256 175 256 175 Z" fill="#ffb020"/>
+  <!-- Wordmark -->
+  <text x="256" y="450" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="8" fill="#e8e8e8">FORGE</text>
+  <text x="256" y="450" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="8" fill="#ff6b00" opacity="0">O</text>
+</svg>

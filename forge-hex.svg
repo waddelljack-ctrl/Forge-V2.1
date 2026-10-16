@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0a0a0a"/>
+  <!-- Hex ring -->
+  <polygon points="256,72 400,156 400,324 256,408 112,324 112,156"
+           fill="none" stroke="#ff6b00" stroke-width="28" stroke-linejoin="round"/>
+  <!-- Inner accent cuts matching the design -->
+  <path d="M148 220 L148 300" stroke="#ff6b00" stroke-width="22" stroke-linecap="round" opacity="0.9"/>
+  <path d="M364 220 L364 300" stroke="#ff6b00" stroke-width="22" stroke-linecap="round" opacity="0.9"/>
+  <!-- F -->
+  <text x="256" y="310" text-anchor="middle" font-family="Arial Black, Helvetica Neue, sans-serif"
+        font-size="200" font-weight="900" fill="#ffffff">F</text>
+</svg>
